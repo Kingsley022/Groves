@@ -1,0 +1,8 @@
+.blue-btn{
+    background: #0707be;
+    border: none;
+    color: #fff;
+    padding: 0.5rem 2rem;
+    border-radius: 12px;
+    cursor: pointer;
+}
